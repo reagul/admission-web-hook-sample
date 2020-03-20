@@ -8,4 +8,6 @@
 
 4. Banzai Cloud : https://banzaicloud.com/blog/k8s-admission-webhooks/
 
-5. 
+5. Python Example : https://medium.com/analytics-vidhya/how-to-write-validating-and-mutating-admission-controller-webhooks-in-python-for-kubernetes-1e27862cb798
+
+6. 
