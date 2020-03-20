@@ -4,4 +4,6 @@
 
 2. https://medium.com/ovni/writing-a-very-basic-kubernetes-mutating-admission-webhook-398dbbcb63ec
 
-3. 
+3.  Pod Present RedHat : https://blog.openshift.com/a-podpreset-based-webhook-admission-controller/
+
+4. 
